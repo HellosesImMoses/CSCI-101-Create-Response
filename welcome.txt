@@ -1,0 +1,8 @@
+Welcome to Doki Doki Date Sim!
+---------------------------------------------------------
+Doki Doki Date Sim is a text-based adventure game that tasks you with
+successfully maneuvering through a first date with your childhood friend
+---------------------------------------------------------
+Created by Ryan Moses
+Special Thanks to Jacob Michael Briggs
+---------------------------------------------------------
